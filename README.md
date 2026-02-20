@@ -13,7 +13,7 @@ Most days I'm wiring <b>Spring Boot microservices</b>, <b>React frontends</b>, a
 When I'm not debugging life choices or YAML files, I'm lifting, reading, or gaming.
 </p>
 
-<p align="center">
+<p align="left">
 📚 Currently reading: <i>Days at the Morisaki Bookshop</i><br>
 🏋️ Gym regular • 🎮 Casual gamer • ☕ Caffeine dependent
 </p>
