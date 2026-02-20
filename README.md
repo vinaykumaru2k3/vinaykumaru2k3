@@ -4,12 +4,12 @@
 
 ### Full-Stack Engineer • Backend Builder • DevOps Enthusiast
 
-<p align="center">
+<p align="justify">
 I design backend systems, build modern web apps, and automate delivery pipelines.<br>
 Most days I'm wiring <b>Spring Boot microservices</b>, <b>React frontends</b>, and <b>containerized deployments</b>.
 </p>
 
-<p align="center">
+<p align="justify">
 When I'm not debugging life choices or YAML files, I'm lifting, reading, or gaming.
 </p>
 
@@ -29,7 +29,7 @@ When I'm not debugging life choices or YAML files, I'm lifting, reading, or gami
 
 # 🧠 What I Enjoy Building
 
-<p align="center">
+<p align="justify">
 ⚙️ Microservices & distributed systems<br>
 🚀 CI/CD pipelines & automation<br>
 ☁️ Cloud-native deployments<br>
@@ -51,16 +51,6 @@ When I'm not debugging life choices or YAML files, I'm lifting, reading, or gami
 <img src="https://raw.githubusercontent.com/vinaykumaru2k3/vinaykumaru2k3/output/github-contribution-grid-snake.svg" />
 </p>
 
-
-# 🌐 Connect
-
-<p align="center">
-<a href="https://www.linkedin.com/in/vinaykumaru">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
-
----
 
 <p align="center">
 <i>Consistency compounds — in code, fitness, and learning.</i>
