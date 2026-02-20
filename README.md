@@ -1,6 +1,6 @@
 ***
 
-### Hey, I'm Vinay Kumar
+### Hey, I'm Vinay Kumar U
 
 ### Full-Stack Engineer • Backend Builder • DevOps Enthusiast
 
