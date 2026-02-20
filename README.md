@@ -20,6 +20,16 @@
   Outside tech, I lift regularly, read across genres (English & Kannada), and occasionally decompress with video games.
 </p>
 
+## 🕹️ Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinaykumaru2k3/vinaykumaru2k3/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinaykumaru2k3/vinaykumaru2k3/output/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/vinaykumaru2k3/vinaykumaru2k3/output/pacman-contribution-graph.svg" alt="pacman contribution graph" />
+  </picture>
+</div>
+
 
 ## 🧠 Engineering Interests
 
