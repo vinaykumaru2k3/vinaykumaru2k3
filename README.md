@@ -1,5 +1,5 @@
 ***
-<div align="center">
+<div align="left">
 
 # 👋 Hey, I'm Vinay Kumar!
 
@@ -33,8 +33,6 @@
 
 </div>
 
----
-
 ## 🛠 Tech Stack
 
 <div align="left">
@@ -60,33 +58,11 @@
 
 </div>
 
----
-
-## 📚 Currently Exploring
-
-<div align="left">
-
-- 🎯 Advanced Spring Boot architecture patterns  
-- 🔧 Jenkins pipeline design & optimization  
-- 💨 Local cloud simulation (LocalStack)  
-- 🏗️ Scalable system design principles  
-
-</div>
-
 ## 📊 GitHub Activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=vinaykumaru2k3&theme=dracula&hide_border=false&border_radius=5" height="180" alt="streak graph" />
 
-## 🕹️ Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinaykumaru2k3/vinaykumaru2k3/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinaykumaru2k3/vinaykumaru2k3/output/pacman-contribution-graph.svg">
-    <img src="https://raw.githubusercontent.com/vinaykumaru2k3/vinaykumaru2k3/output/pacman-contribution-graph.svg" alt="pacman contribution graph" />
-  </picture>
-</div>
 
 ## 🌐 Connect With Me
 
@@ -96,13 +72,10 @@
 
 </div>
 
----
-
 <div align="center">
 
 > “**Consistency compounds.** In code, fitness, and learning.”
 
----
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
