@@ -26,17 +26,6 @@ When I'm not debugging life choices or YAML files, I'm lifting, reading, or gami
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&perline=3" />
 </p>
 
-
-# 🧠 What I Enjoy Building
-
-<p align="justify">
-⚙️ Microservices & distributed systems<br>
-🚀 CI/CD pipelines & automation<br>
-☁️ Cloud-native deployments<br>
-📡 APIs & backend performance<br>
-🛠 Developer tooling
-</p>
-
 # 📊 GitHub Activity
 
 <p align="center">
