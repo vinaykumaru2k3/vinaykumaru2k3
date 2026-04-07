@@ -20,21 +20,37 @@ When I'm not debugging life choices or YAML files, I'm lifting, reading, or gami
 
 # 🧰 Tech Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,nodejs,react,nextjs,nest,py,cpp&perline=10" />
-</p>
+<div align="center">
+<table>
+<tr>
+<td valign="top">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,terraform,aws,gcp,firebase,git,githubactions&perline=8" />
-</p>
+### 💻 Core Development
+<img src="https://skillicons.dev/icons?i=java,cpp,py,js,ts,nodejs&perline=6" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,hibernate,maven,mysql&perline=6" />
-</p>
+### 🌐 Frontend & Web
+<img src="https://skillicons.dev/icons?i=react,nextjs,nest,babel&perline=4" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,linux,bash,vercel,netlify,babel&perline=6" />
-</p>
+### ⚙️ Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=spring,hibernate&perline=2" />
+
+</td>
+
+<td valign="top">
+
+### 🗄️ Databases & Storage
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&perline=4" />
+
+### ☁️ DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,aws,gcp,firebase&perline=7" />
+
+### 🔧 Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,githubactions,linux,bash,vercel,netlify&perline=6" />
+
+</td>
+</tr>
+</table>
+</div>
 
 # 📊 GitHub Activity
 
