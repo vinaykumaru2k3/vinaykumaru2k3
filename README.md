@@ -21,9 +21,19 @@ When I'm not debugging life choices or YAML files, I'm lifting, reading, or gami
 # 🧰 Tech Arsenal
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,nextjs,nest,py&perline=8" /><br>
-<img src="https://skillicons.dev/icons?i=docker,jenkins,terraform,aws&perline=4" /><br>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&perline=3" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,nextjs,nest,py&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,terraform,aws,gcp,firebase,git,githubactions&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,hibernate,maven&perline=5" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kubernetes,linux,bash,vercel,netlify&perline=5" />
 </p>
 
 # 📊 GitHub Activity
