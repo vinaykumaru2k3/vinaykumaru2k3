@@ -21,7 +21,7 @@ When I'm not debugging life choices or YAML files, I'm lifting, reading, or gami
 # 🧰 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,nextjs,nest,py&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,nodejs,react,nextjs,nest,py,cpp&perline=10" />
 </p>
 
 <p align="center">
@@ -29,11 +29,11 @@ When I'm not debugging life choices or YAML files, I'm lifting, reading, or gami
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,hibernate,maven&perline=5" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,hibernate,maven,mysql&perline=6" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,linux,bash,vercel,netlify&perline=5" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,linux,bash,vercel,netlify,babel&perline=6" />
 </p>
 
 # 📊 GitHub Activity
