@@ -14,7 +14,7 @@ When I'm not debugging life choices or YAML files, I'm lifting, reading, or gami
 </p>
 
 <p align="left">
-📚 Currently reading: <i>Days at the Morisaki Bookshop</i><br>
+📚 Currently reading: <i>The picture of dorian gray</i><br>
 🏋️ Gym regular • 🎮 Casual gamer • ☕ Caffeine dependent
 </p>
 
